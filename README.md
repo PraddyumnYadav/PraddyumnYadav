@@ -11,4 +11,4 @@ Skills: PYTHON / MACHINE LEARNING / DJANGO / KIVY / TKINTER / HTML / CSS
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=PraddyumnYadav&theme=dracula)
 
-![Profile views](https://gpvc.arturio.dev/PraddyumnYadav&theme=dracula)
+![Profile views](https://gpvc.arturio.dev/PraddyumnYadav)
