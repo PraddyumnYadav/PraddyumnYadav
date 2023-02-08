@@ -5,10 +5,10 @@ I,m Praddyumn from India, and i am a Intermideate Programmer. I have a Good Know
 
 Skills: PYTHON / MACHINE LEARNING / DJANGO / KIVY / TKINTER / HTML / CSS
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PraddyumnYadav)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PraddyumnYadav&layout=compact&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=PraddyumnYadav&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=PraddyumnYadav&show_icons=true&theme=dracula)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=PraddyumnYadav)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=PraddyumnYadav&theme=dracula)
 
-![Profile views](https://gpvc.arturio.dev/PraddyumnYadav)  
+![Profile views](https://gpvc.arturio.dev/PraddyumnYadav&theme=dracula)
