@@ -13,8 +13,6 @@ Skills: PYTHON / MACHINE LEARNING / DJANGO / KIVY / TKINTER / HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PraddyumnYadav&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/PraddyumnYadav)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=PraddyumnYadav)  
 
 ![Profile views](https://gpvc.arturio.dev/PraddyumnYadav)  
