@@ -9,7 +9,6 @@ I,m Praddyumn from India, and i am a Intermideate Programmer. I have a Good Know
 * 💻 Django, HTML, CSS
 * 📲 Kivy
 * 💻 Tkinter
-Skills: PYTHON / MACHINE LEARNING / DJANGO / KIVY / TKINTER / HTML / CSS
 
 ## Some Github Stats
 <div align="center">
