@@ -19,5 +19,4 @@ I,m Praddyumn from India, and i am a Intermideate Programmer. I have a **Good Kn
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=PraddyumnYadav&theme=tokyonight)
 
-![Profile views](https://gpvc.arturio.dev/PraddyumnYadav)
 </div>
