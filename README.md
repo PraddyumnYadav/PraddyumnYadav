@@ -1,16 +1,20 @@
-# Hi there 👋, My Name is Praddyumn
-## I am Python Programmer.
+# Hi there! 👋 My name is Praddyumn
 
-I,m Praddyumn from India, and i am a Intermideate Programmer. I have a **Good Knowledge of Python** and a **little Knowledge of Django, Sklearn, Kivy, Tkinter, Numpy, Pandas, Matplotlib.** I really Enjoy Learning Languages and Frameworks like Django, Tensorflow, Tkinter and i also Like to work with Kivy. You Can Check out My [YouTube Channel](https://www.youtube.com/channel/UCIs4qW1rvPCD0l9Zvls4ztg) and [Portfolio](https://praddyumnyadav.netlify.app), you can also get Code of my Portfolio [here](https://github.com/PraddyumnYadav/PraddyumnYadavPortfolio).
+## About Me
+I'm a Python programmer from India with a passion for learning and building new things. I have a **strong grasp of Python** and have dabbled with various frameworks such as Django, Sklearn, Kivy, Tkinter, Numpy, Pandas and Matplotlib. I'm especially interested in languages and frameworks like Django, Tensorflow, and Tkinter, and I also enjoy building apps with Kivy.
+
+Apart from coding, I have a [YouTube channel](https://www.youtube.com/channel/UCIs4qW1rvPCD0l9Zvls4ztg) where I share my knowledge and experience with others, and I maintain a [portfolio website](https://praddyumnyadav.netlify.app) where you can see some of my work.
 
 ## Skills and Experiences
+Here are some of the programming languages, frameworks, and tools that I'm comfortable working with:
 * ⚛️ Python
 * 🧠 Machine Learning - [Scikit-Learn](https://github.com/scikit-learn/scikit-learn)
 * 💻 Django, HTML, CSS
 * 📲 Kivy
 * 💻 Tkinter
 
-## Some Github Stats
+## GitHub Stats
+Take a look at some of my GitHub stats below:
 <div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PraddyumnYadav&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
@@ -19,5 +23,7 @@ I,m Praddyumn from India, and i am a Intermideate Programmer. I have a **Good Kn
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=PraddyumnYadav&theme=tokyonight)
 
-![Profile views](https://gpvc.arturio.dev/PraddyumnYadav)
 </div>
+
+## Contact Me
+Feel free to get in touch with me via [email](mailto:praddyumnyadav@gmail.com).
