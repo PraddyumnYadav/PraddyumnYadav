@@ -13,6 +13,9 @@ Here are some of the programming languages, frameworks, and tools that I'm comfo
 * 📲 Kivy
 * 💻 Tkinter
 
+## Contact Me
+Feel free to get in touch with me via [email](mailto:praddyumnyadav@gmail.com).
+
 ## GitHub Stats
 Take a look at some of my GitHub stats below:
 <div align="center">
@@ -28,6 +31,3 @@ Take a look at some of my GitHub stats below:
   <img src="https://profile-counter.glitch.me/PraddyumnYadav/count.svg" />
 </p>
 </div>
-
-## Contact Me
-Feel free to get in touch with me via [email](mailto:praddyumnyadav@gmail.com).
