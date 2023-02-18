@@ -3,7 +3,7 @@
 ## About Me
 I'm a Python programmer from India with a passion for learning and building new things. I have a **strong grasp of Python** and have dabbled with various frameworks such as Django, Sklearn, Kivy, Tkinter, Numpy, Pandas and Matplotlib. I'm especially interested in languages and frameworks like Django, Tensorflow, and Tkinter, and I also enjoy building apps with Kivy.
 
-Apart from coding, I have a [YouTube channel](https://www.youtube.com/channel/UCIs4qW1rvPCD0l9Zvls4ztg) where I share my knowledge and experience with others, and I maintain a [portfolio website](https://praddyumnyadav.netlify.app) where you can see some of my work and you can also contribute in my Portfolio from this [Github Repository](https://github.com/PraddyumnYadav/PraddyumnYadavPortfolio).
+Apart from coding, I have a [YouTube channel](https://www.youtube.com/channel/UCIs4qW1rvPCD0l9Zvls4ztg) where I share my knowledge and experience with others, and I maintain a [Portfolio Website](https://praddyumnyadav.netlify.app) where you can see some of my work and you can also contribute in my Portfolio from this [Github Repository](https://github.com/PraddyumnYadav/PraddyumnYadavPortfolio).
 
 ## Skills and Experiences
 Here are some of the programming languages, frameworks, and tools that I'm comfortable working with:
