@@ -23,6 +23,10 @@ Take a look at some of my GitHub stats below:
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=PraddyumnYadav&theme=tokyonight)
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/PraddyumnYadav/count.svg" />
+</p>
 </div>
 
 ## Contact Me
