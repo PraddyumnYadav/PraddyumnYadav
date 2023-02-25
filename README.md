@@ -14,7 +14,8 @@ Here are some of the programming languages, frameworks, and tools that I'm comfo
 * 💻 Tkinter
 
 ## Contact Me
-Feel free to get in touch with me via [email](mailto:praddyumnyadav@gmail.com).
+* Feel free to get in touch with me via [email](mailto:praddyumnyadav@gmail.com).
+* You Can Contact Me in Two Different Languages - **English & Hindi**.
 
 ## GitHub Stats
 Take a look at some of my GitHub stats below:
