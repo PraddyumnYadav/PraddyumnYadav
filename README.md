@@ -8,7 +8,7 @@ Apart from coding, I have a [YouTube channel](https://www.youtube.com/channel/UC
 ## Skills and Experiences
 Here are some of the programming languages, frameworks, and tools that I'm comfortable working with:
 * ⚛️ Python
-* 🧠 Machine Learning - [Scikit-Learn](https://github.com/scikit-learn/scikit-learn), [Numpy](https://numpy.org/), [Pandas](https://pandas.pydata.org/), Matplotlib.
+* 🧠 Machine Learning - [Scikit-Learn](https://github.com/scikit-learn/scikit-learn), [Numpy](https://numpy.org/), [Pandas](https://pandas.pydata.org/), [Matplotlib](https://matplotlib.org/).
 * 💻 Django, HTML, CSS
 * 📲 Kivy
 * 💻 Tkinter
