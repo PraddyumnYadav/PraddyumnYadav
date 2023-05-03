@@ -13,6 +13,15 @@ Here are some of the programming languages, frameworks, and tools that I'm comfo
 * 📲 Kivy
 * 💻 Tkinter
 
+
+## Currently Working on...
+
+- A Machine Learning Project to Predict Titles of YouTube Videos.
+
+- Learning Linear Algebra.
+
+- Learning Machine Learning.
+
 ## Contact Me
 * Feel free to get in touch with me via [email](mailto:praddyumnyadav@gmail.com).
 * You Can Contact Me in Two Different Languages - **English & Hindi**.
@@ -32,3 +41,8 @@ Take a look at some of my GitHub stats below:
   <img src="https://profile-counter.glitch.me/PraddyumnYadav/count.svg" />
 </p>
 </div>
+
+
+
+
+
