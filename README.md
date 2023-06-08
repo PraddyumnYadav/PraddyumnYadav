@@ -16,7 +16,7 @@ Here are some of the programming languages, frameworks, and tools that I'm comfo
 
 ## Currently Working on...
 - Learning [Linear Algebra](https://github.com/PraddyumnYadav/Hands_On_Machine_Learning).
-- Learning [Machine Learning](https://github.com/PraddyumnYadav/Hands_On_Machine_Learning).
+- Learning [Machine Learning](https://github.com/PraddyumnYadav/Hands_On_Machine_Learning) - Training Models.
 
 ## Contact Me
 * Feel free to get in touch with me via [email](mailto:praddyumnyadav@gmail.com).
