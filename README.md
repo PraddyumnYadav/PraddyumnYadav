@@ -15,7 +15,6 @@ Here are some of the programming languages, frameworks, and tools that I'm comfo
 
 
 ## Currently Working on...
-- A Machine Learning Project to Predict Titles of YouTube Videos which You can Find [Here](https://github.com/PraddyumnYadav/Yt-Video-Title-Predictor).
 - Learning [Linear Algebra](https://github.com/PraddyumnYadav/Hands_On_Machine_Learning).
 - Learning [Machine Learning](https://github.com/PraddyumnYadav/Hands_On_Machine_Learning).
 
@@ -38,8 +37,3 @@ Take a look at some of my GitHub stats below:
   <img src="https://profile-counter.glitch.me/PraddyumnYadav/count.svg" />
 </p>
 </div>
-
-
-
-
-
