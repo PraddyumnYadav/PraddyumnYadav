@@ -25,8 +25,4 @@ Here are some of the programming languages, frameworks, and tools that I'm comfo
 Take a look at some of my GitHub stats below:
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PraddyumnYadav&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=PraddyumnYadav&show_icons=true&theme=tokyonight)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=PraddyumnYadav&theme=tokyonight)
